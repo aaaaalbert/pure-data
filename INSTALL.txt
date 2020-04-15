@@ -92,7 +92,7 @@ override the defaults with --enable-universal:
     ./configure --enable-universal=i386
 
     # build 64 bit Pd
-    ./configure --with-universal=x86_64
+    ./configure --enable-universal=x86_64
 
 The full list of available configuration options can printed by running:
 
